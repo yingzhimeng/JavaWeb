@@ -1,0 +1,11 @@
+步骤 1 : 创建一个java项目j2ee    
+步骤 2 : 导入必须的servlet-api.jar包    
+步骤 3 : 编写HelloServlet    
+步骤 4 : 配置web.xml    
+步骤 5 : 指定项目输出到classes目录    
+步骤 6 : 配置tomcat的server.xml 中的<context    
+步骤 7 : 删除tomcat webapps下的ROOT目录    
+步骤 8 : 重启tomcat，访问http://127.0.0.1/hello    
+步骤 9 : 完整项目   
+
+Java eclipse : control + s 保存 就可以编译
