@@ -1,0 +1,4 @@
+步骤 1 : 创建 login.html    
+步骤 2 : 创建 LoginServlet    
+步骤 3 : 映射LoginServlet到路径login    
+步骤 4 : 在页面提交数据    
